@@ -17,8 +17,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicionar URL de solução aqui](https://your-solução-url.com)
-
+- URL da solução: [https://github.com/vitorlopes523/nft-preview-card-component]
 ## Meu processo
 
 ### Construído com
@@ -60,7 +59,6 @@ Um grande desafio que encontrei nesse projeto foi na estilização, para colocar
   opacity: 1;
 }
 ```
-
 
 ### Desenvolvimento contínuo
 
